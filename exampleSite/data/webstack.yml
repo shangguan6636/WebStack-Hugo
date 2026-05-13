@@ -4,22 +4,22 @@
   icon: far fa-star
   links: 
     - title: Gemini
-      logo: 语雀.webp
+      logo: Gemini.png
       url: https://gemini.google.com/app
       description: Gemini
     - title: ChatGPT
-      logo: 开源中国.jpg
+      logo: ChatGPT.png
       url: https://chatgpt.com/
       description: ChatGPT
     - title: Grok
-      logo: 开源中国.jpg
+      logo: Grok.png
       url: https://grok.com/
     - title: GitHub
       logo: github.png
       url: https://github.com/
       description: GitHub 开源社区。
     - title: Outlook
-      logo: github.png
+      logo: Outlook.jfif
       url: https://outlook.live.com/mail/0/
       description: Outlook
       description: Grok
@@ -28,31 +28,31 @@
       url: http://mail.qq.com/
       description: QQmail
     - title: 次元动画城
-      logo: qq邮箱.png
+      logo: 次元城动画.png
       url: https://www.cycani.org/
-      description: 次元动画城
+      description: 次元城动画
     - title: Bilibili
-      logo: qq邮箱.png
+      logo: Bilibili.jfif
       url: https://www.bilibili.com/
       description: Bilibili
     - title: Youtube
-      logo: qq邮箱.png
+      logo: Youtube.png
       url: https://www.youtube.com/
       description: Youtube
     - title: YT Music
-      logo: qq邮箱.png
+      logo: YT Music.jpg
       url: https://music.youtube.com/
       description: Youtube Music
     - title: osu!
-      logo: qq邮箱.png
+      logo: osu!.png
       url: https://osu.ppy.sh/
       description: osu!
     - title: Google翻译
-      logo: qq邮箱.png
+      logo: Google翻译.png
       url: https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
       description: Google翻译
     - title: Pixiv
-      logo: qq邮箱.png
+      logo: Pixiv.jfif
       url: https://www.pixiv.net/
       description: Pixiv
     
