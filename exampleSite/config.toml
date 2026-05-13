@@ -35,8 +35,8 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 [params.images]
     favicon           = "assets/images/renge-favicon.jpg"
-    searchImageL      = "assets/images/renge-miku.JPG"		# 搜索部分浅色背景图
-    searchImageD      = "assets/images/renge-miku.JPG"		# 搜索部分深色背景图
+    searchImageL      = "assets/images/renge-main.jpg"		# 搜索部分浅色背景图
+    searchImageD      = "assets/images/renge-main.jpg"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/bi-expand-dark.png"
     logoExpandDark    = "assets/images/bi-expand-light.png"
     logoCollapseLight = "assets/images/bi.png"
