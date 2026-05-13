@@ -21,7 +21,7 @@ publishDir            = "public"				# 站点静态文件保存目录
     defaultLogo   = "assets/images/logos/default.webp"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
     nightMode     = false					# 默认站点为深色(夜间)模式
     yiyan         = false                        		# 默认启用一言服务
-    fancybox      = true                                        # 使用 Fancybox 实现图片灯箱/放大功能
+    fancybox      = false                                       # 使用 Fancybox 实现图片灯箱/放大功能
 
 [params.seo]    
     baiduhmid       = '0'	# 百度统计 hm.src 的 ID
@@ -35,8 +35,8 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 [params.images]
     favicon           = "assets/images/bi-favicon.png"
-    searchImageL      = "assets/images/bg-dna.jpg"		# 搜索部分浅色背景图
-    searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
+    searchImageL      = "assets/images/renge-miku.JPG"		# 搜索部分浅色背景图
+    searchImageD      = "assets/images/renge-miku.JPG"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/bi-expand-dark.png"
     logoExpandDark    = "assets/images/bi-expand-light.png"
     logoCollapseLight = "assets/images/bi.png"
@@ -46,4 +46,4 @@ publishDir            = "public"				# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：shen@weiyan.cc <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Bio IT 爱好者](https://github.com/bioitee/) | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>'
+    copyright = '2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Renge](https://github.com/bioitee/) |<br/>'
