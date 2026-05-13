@@ -34,7 +34,7 @@ publishDir            = "public"				# 站点静态文件保存目录
     key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
-    favicon           = "assets/images/bi-favicon.png"
+    favicon           = "assets/images/renge-favicon.jpg"
     searchImageL      = "assets/images/renge-miku.JPG"		# 搜索部分浅色背景图
     searchImageD      = "assets/images/renge-miku.JPG"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/bi-expand-dark.png"
