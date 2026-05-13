@@ -14,10 +14,11 @@
     - title: Grok
       logo: Grok.png
       url: https://grok.com/
+      description: ChatGPT
     - title: GitHub
       logo: github.png
       url: https://github.com/
-      description: GitHub 开源社区。
+      description: GitHub
     - title: Outlook
       logo: Outlook.jfif
       url: https://outlook.live.com/mail/0/
