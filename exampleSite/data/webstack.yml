@@ -55,7 +55,29 @@
       logo: Pixiv.jfif
       url: https://www.pixiv.net/
       description: Pixiv
-    
+- taxonomy: 资料库
+  icon: far fa-star
+  links: 
+    - title: Z-Library
+      logo: Gemini.png
+      url: https://zlib.li/
+      description: Z-Library  
+    - title: RARBG电影下载
+      logo: Gemini.png
+      url: https://rargb.to
+      description: RARBG电影下载
+    - title: nayy搜索
+      logo: Gemini.png
+      url: https://sukebei.nyaa.si
+      description: nayy搜索
+    - title: 动漫花园资源网
+      logo: Gemini.png
+      url: https://share.dmhy.org
+      description: 动漫花园资源网
+    - title: 蜜柑计划 - Mikan Project
+      logo: Gemini.png
+      url: https://mikanime.me
+      description: 蜜柑计划 - Mikan Project
 - taxonomy: 施工中🔧
 #  icon: fas fa-flask fa-lg
 #  list:
