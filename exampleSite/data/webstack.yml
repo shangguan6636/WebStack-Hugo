@@ -74,6 +74,10 @@
       logo: excel.webp
       url:https://doc.weixin.qq.com/sheet/e3_AcMALgZfAGsCNkqs1h94CTZuKqjdj
       description: 仓库配件领用及借用台账
+    - title: 仓库配件领用及借用台账
+      logo: excel.webp
+      url:https://doc.weixin.qq.com/sheet/e3_AcMALgZfAGsCNkqs1h94CTZuKqjdj
+      description: 仓库配件领用及借用台账
 - taxonomy: 施工中🔧
 #  icon: fas fa-flask fa-lg
 #  list:
