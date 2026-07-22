@@ -55,7 +55,7 @@
       logo: Pixiv.jfif
       url: https://www.pixiv.net/
       description: Pixiv
-- taxonomy: 资料库
+- taxonomy: 常用表格
   icon: far fa-star
   links: 
     - title: Z-Library
