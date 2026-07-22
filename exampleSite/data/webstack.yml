@@ -58,26 +58,26 @@
 - taxonomy: 常用表格
   icon: far fa-star
   links: 
-    - title: Z-Library
-      logo: Gemini.png
-      url: https://zlib.li/
-      description: Z-Library  
-    - title: RARBG电影下载
-      logo: Gemini.png
-      url: https://rargb.to
-      description: RARBG电影下载
-    - title: nayy搜索
-      logo: Gemini.png
-      url: https://sukebei.nyaa.si
-      description: nayy搜索
-    - title: 动漫花园资源网
-      logo: Gemini.png
-      url: https://share.dmhy.org
-      description: 动漫花园资源网
-    - title: 蜜柑计划 - Mikan Project
-      logo: Gemini.png
-      url: https://mikanime.me
-      description: 蜜柑计划 - Mikan Project
+    - title: 欧亚索赔-2026
+      logo: excel.webp
+      url: https://doc.weixin.qq.com/smartsheet/s3_Aa4AXQZfABECNFn7gk0l7RAmvhmFB
+      description: 索赔台账及其看板
+    - title: 欧亚质量反馈-2026
+      logo: excel.webp
+      url: https://doc.weixin.qq.com/smartsheet/s3_Aa4AXQZfABECNtWRcysI4Qtaa9yON
+      description: 一般质量反馈&重大质量反馈及其看板
+    - title: 三册一清单
+      logo: excel.webp
+      url: https://doc.weixin.qq.com/smartsheet/s3_ADUAFQaWANoCNcOAga0iuSKib46Oq
+      description: 车型材料清单
+    - title: 欧亚出口部日志
+      logo: excel.webp
+      url: https://doc.weixin.qq.com/sheet/e3_AcQALgZfAGsCN6NB5rK3zRmiMGqk2
+      description: 欧亚出口部日志
+    - title: 仓库配件领用及借用台账
+      logo: excel.webp
+      url:https://doc.weixin.qq.com/sheet/e3_AcMALgZfAGsCNkqs1h94CTZuKqjdj
+      description: 仓库配件领用及借用台账
 - taxonomy: 施工中🔧
 #  icon: fas fa-flask fa-lg
 #  list:
